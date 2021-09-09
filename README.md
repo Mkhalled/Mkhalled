@@ -1,6 +1,6 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-Hi 👋, my name is khalled meneouali, Fullstack Developer with a purely IT and versatile training and an enriching experience as a Fullstack Developer without  👀  forgetting the passionate self-taught side, my passion for software consists in imagining ideas and making them come true with stylish interfaces. I take great care of the experience, architecture, and code quality of the things I build.
+Hi 👋, my name is khalled meneouali, 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 with a purely IT and versatile training 🎓  and an enriching experience 💼 as a Fullstack Developer without  👀  forgetting the passionate self-taught side, my passion for software consists in imagining ideas and making them come true with stylish interfaces. I take great care of the experience, architecture, and code quality of the things I build.
 I've learned a lot from the open source community ✨ and love how the collaboration and knowledge sharing has been done through open source.
 
 <!---
@@ -8,8 +8,8 @@ Mkhalled/Mkhalled is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 <!------>
-<h2>🚀 Some Tools I Use</h2>
 
+## :🚀 Some Tools I Use
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
@@ -28,5 +28,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow khalled meneouali on LinkedIn" title="Follow khalled meneouali on LinkedIn"/>](linkedin.com/in/khalled-meneouali)
+<!---[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)--->
 
 
