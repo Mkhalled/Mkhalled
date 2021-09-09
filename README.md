@@ -8,7 +8,7 @@ Mkhalled/Mkhalled is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 <!------>
-🚀 <h2>languages and tools:</h2>
+<h2> 🚀 languages and tools :</h2>
 
 <!--- BackEnd --->
 <!--- FrontEnd --->
