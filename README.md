@@ -1,5 +1,5 @@
 
-
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 Hi 👋, my name is khalled meneouali, Fullstack Developer with a purely IT and versatile training and an enriching experience as a Fullstack Developer without  👀  forgetting the passionate self-taught side, my passion for software consists in imagining ideas and making them come true with stylish interfaces. I take great care of the experience, architecture, and code quality of the things I build.
 I've learned a lot from the open source community ✨ and love how the collaboration and knowledge sharing has been done through open source.
 
