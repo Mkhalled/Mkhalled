@@ -28,6 +28,23 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
+| <a href="https://github.com/Mkhalled/Mkhalled"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mkhalled&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mkhalled github stats" /></a> 
+
+| <a href="https://github.com/Mkhalled/Mkhalled/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhalled&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!--
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+-->
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
@@ -37,4 +54,4 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 -->
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=Mkhalled)
