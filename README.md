@@ -1,15 +1,16 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-Hi 👋, my name is khalled meneouali, 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 with a purely IT and versatile training 🎓  and an enriching experience 💼 as a Fullstack Developer without  👀  forgetting the passionate self-taught side, my passion for software consists in imagining ideas and making them come true with stylish interfaces. I take great care of the experience, architecture, and code quality of the things I build.
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="320" height="220" />
+Hi 👋, my name is khalled meneouali, 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 with a purely IT and versatile training 🎓  and an enriching experience 💼 as a Fullstack Developer without  forgetting  👀  the passionate self-taught side, my passion for software consists in imagining ideas and making them come true with stylish interfaces. I take great care of the experience, architecture, and code quality of the things I build.
 I've learned a lot from the open source community ✨ and love how the collaboration and knowledge sharing has been done through open source.
-
+ 
 <!---
 Mkhalled/Mkhalled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 <!------>
 
-## :🚀 Some Tools I Use
+## 🚀 Some Tools I Use
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
@@ -28,9 +29,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-| <a href="https://github.com/Mkhalled/Mkhalled"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mkhalled&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mkhalled github stats" /></a> 
-
-| <a href="https://github.com/Mkhalled/Mkhalled/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhalled&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/Mkhalled/Mkhalled"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mkhalled&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mkhalled github stats" /></a> 
+ <a href="https://github.com/Mkhalled/Mkhalled/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhalled&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--
 | ------------- | ------------- |
 
